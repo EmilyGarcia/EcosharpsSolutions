@@ -16,6 +16,10 @@
   .title-color{
   	color: #00ff99;
   }
+  .resize{
+    width:30px;
+    height: auto;
+}
   #title {
   	background-color: #330014;
     color: #e2efef;
